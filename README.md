@@ -1,4 +1,4 @@
-# JPCircularProgressBar
-Circular progress bar
+# SwiftUI
+Icon
 
 ![](output.png)
